@@ -1,5 +1,5 @@
+http://wanmin-books.github.io/article/hello-world/
 http://wanmin-books.github.io/about/
 http://wanmin-books.github.io/404/
 http://wanmin-books.github.io/categories/
-http://wanmin-books.github.io/article/hello-world/
 http://wanmin-books.github.io/
