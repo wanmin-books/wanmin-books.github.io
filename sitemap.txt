@@ -1,6 +1,5 @@
 http://wanmin-books.github.io/404
 http://wanmin-books.github.io/downloads/bureaucrats-and-anarchism/
-http://wanmin-books.github.io/categories/
 http://wanmin-books.github.io/downloads/
 http://wanmin-books.github.io/article/bureaucrats-and-anarchism/
 http://wanmin-books.github.io/downloads/kropotkin-1-memoirs/
